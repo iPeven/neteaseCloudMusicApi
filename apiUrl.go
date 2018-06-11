@@ -1,4 +1,4 @@
-package ncm
+package neteaseMusicApi
 
 const(
 	SearchUrl = "https://music.163.com/weapi/cloudsearch/get/web?csrf_token="

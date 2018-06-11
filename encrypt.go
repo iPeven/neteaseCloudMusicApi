@@ -1,4 +1,4 @@
-package ncm
+package neteaseMusicApi
 
 import (
 	"crypto/aes"
